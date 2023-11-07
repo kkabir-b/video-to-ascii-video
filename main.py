@@ -1,5 +1,5 @@
 import cv2
-print('\r',end='')
+print('\r',end='') 
 def print_gray(path):
 
     q=time.time()
