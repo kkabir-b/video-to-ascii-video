@@ -1,7 +1,6 @@
 import cv2
 print('\r',end='') 
 def print_gray(path):
-
     q=time.time()
     chars=['#'," "]
     img=cv2.imread(path,0)
